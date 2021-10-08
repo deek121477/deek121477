@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactNative**
 
-- 📝 I regularly write articles on [https://deekshajagtap121.blogspot.com/2021/04/what-is-subconscious-mind.html](https://deekshajagtap121.blogspot.com/2021/04/what-is-subconscious-mind.html)
+- 📝 I regularly write articles on [https://difm.tech/author/deeksha](https://difm.tech/author/deeksha)
 
 - 📫 How to reach me **deekshajagtap01@gmail.com**
 
