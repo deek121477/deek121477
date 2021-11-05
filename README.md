@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deek121477&label=Profile%20views&color=0e75b6&style=flat" alt="deek121477" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deek121477" alt="deek121477" /></a> </p>
-
 - 🌱 I’m currently learning **ReactNative**
 
 - 📝 I regularly write articles on [https://difm.tech/author/deeksha](https://difm.tech/author/deeksha)
