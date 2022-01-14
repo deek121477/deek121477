@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is Deeksha
+### Hi there 👋, My Name is Deeksha Jagtap
 #### I am interested in Web Development, Open Source Contribution, and Machine Learning.
 
 
